@@ -1,3 +1,18 @@
+## personal notes
+
+to check requirements
+find index.php and run webserver
+e.g. cd /Users/jandeclercq/sites/yii-1/requirements
+php -s localhost:8500
+http://localhost:8500/
+
+to see skeleton application
+cd testdrive/
+php -s localhost:8500
+http://localhost:8500/
+
+## generated notes
+
 Yii Web Programming Framework
 =============================
 
